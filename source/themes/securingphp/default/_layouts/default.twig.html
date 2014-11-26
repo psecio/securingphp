@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>SecuringPHP.com : The Securing PHP Project</title>
+    <meta charset="UTF-8">
+    <link href="/assets/css/site.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+    <script src="/assets/js/jquery-1.11.1.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+    <script src="/assets/js/site.js"></script>
+</head>
+<body>
+    <div class="container content">
+        <div class="row">
+            <div class="col-md-12" style="text-align:center">
+                <img src="/assets/img/securing-php.png" width="460"/>
+            </div>
+        </div>
+        <div class="row" style="background-color:#1A76BF;font-size:11px;margin-bottom:7px;margin-top:8px">&nbsp;</div>
+        <div class="row">
+            <div class="col-md-3">
+                <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
+                <div id="mc_embed_signup">
+                    <form action="http://websec.us3.list-manage.com/subscribe/post?u=af1d3ae63cfee88952a67461d&amp;id=450294c09e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate role="form">
+                        <label for="mce-EMAIL">Subscribe to our mailing list for the latest!</label>
+                        <input type="email" value="" name="EMAIL" class="email form-control input-sm" id="mce-EMAIL" placeholder="email address" required>
+                        <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn input-sm">
+                        <div style="position: absolute; left: -5000px;"><input type="text" name="b_af1d3ae63cfee88952a67461d_450294c09e" value=""></div>
+                    </form>
+                </div>
+
+                <div style="width:200px;padding-top:10px">
+                <h4>Are you secure?</h4>
+                <p>
+                    The only constant in the world of web application development is change. With this change comes a whole host of new security concerns and problems. The PHP ecosystem is no different.
+                </p>
+                <p>
+                    Securing PHP wants to help take the guesswork out of protecting your PHP applications and put you on the right path towards a more secure future. It will give you the terms, the technology and the best practices to help keep your apps (and users) protected. Security doesn't have to be hard, but it can be overwhelming.
+                </p>
+                </div>
+            </div>
+            <div class="col-md-6" style="background-color:#FFFFFF;opacity: 10">
+                {% block content %}{% endblock%}
+            </div>
+            <div class="col-md-3">
+                <b>Recent Tweets from <a href="http://twitter.com/securingphp">@SecuringPHP</a></b>
+                <br/><br/>
+                <div id="tweets"></div>
+            </div>
+    </div>
+    <footer style="text-align:center">
+        <b>Securing PHP</b> is a presentation of <a href="http://websec.io">websec.io</a>
+    </footer>
+</body>
+</html>

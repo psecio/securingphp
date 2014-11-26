@@ -1,0 +1,36 @@
+body {
+    font-family: verdana, arial;
+    font-size: 11px;
+    background-color: #FFFFFF;
+    background-image:url('/assets/img/lock.jpg');
+    margin: 0px;
+    padding: 0px;
+}
+p {
+    font-size: 11px;
+}
+div.content {
+    background-color: #FFFFFF;
+    opacity: 0.9;
+    filter: alpha(opacity=100);
+    padding: 20px;
+}
+h3.post-link {
+    margin-bottom: 0px;
+}
+h3.post-link a {
+    text-decoration: none;
+}
+span.post-date {
+    color: #CCCCCC;
+    font-size: 11px;
+}
+span.post-summary {
+    color: #6b6b6b;
+}
+#tweets {
+    font-size: 10px;
+}
+a.nav-link {
+    color: #FFFFFF;
+}
