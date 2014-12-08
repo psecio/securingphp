@@ -9,9 +9,19 @@ title: Home
     &nbsp;&nbsp;
     <a href="https://leanpub.com/securingphp-usualsuspects"><img src="/assets/img/usual-suspects.png" height="150"/></a>
     <br/></br>
+    <h3>Mailing List Archives</h3>
+    <p>
+	If you're not a subscriber to our mailing list, you can always find the past issues here:
+	<style type="text/css">
+<!--
+.display_archive {font-family: arial,verdana; font-size: 12px;}
+.campaign {line-height: 125%; margin: 5px;}
+//-->
+</style>
+<script language="javascript" src="http://us3.campaign-archive2.com/generate-js/?u=af1d3ae63cfee88952a67461d&fid=11509&show=10" type="text/javascript"></script>
+    </p>
     <h3>Recommended Libraries</h3>
 </div>
-
 
 <p>
     Below is a listing of recommended libraries for use in a security context in PHP. All can be installed
