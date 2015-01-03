@@ -49,6 +49,7 @@ title: Home
 <b>Password Management</b>
 <ul>
     <li><a href="https://github.com/ircmaxell/password_compat">ircmaxell/password-compat</a></li>
+    <li><a href="https://github.com/jeremykendall/password-validator">password-validator</a></li>
 </ul>
 
 <b>Miscellaneous</b>
