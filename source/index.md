@@ -31,7 +31,8 @@ title: Home
 <b>Access Control/Authentication</b>
 <ul>
     <li><a href="https://github.com/BeatSwitch/lock">beatswitch/lock</a></li>
-    <li><a href="https://github.com/cartalyst/sentry">cartalyst/sentry</a></li>
+    <li><a href="https://github.com/cartalyst/sentry">cartalyst/sentry</a> (branched into a commerical product, but still available)</li>
+    <li><a href="https://github.com/psecio/gatekeeper">psecio/gatekeeper</a></li>
 </ul>
 
 <b>Two-factor Authentication</b>
