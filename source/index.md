@@ -55,10 +55,10 @@ title: Home
 
 <b>Miscellaneous</b>
 <ul>
-    <li><a href="https://github.com/psecio/jwt">psecio/jwt</a></br><span class="subhead">Java Web Tokens</span></li>
+    <li><a href="https://github.com/psecio/jwt">psecio/jwt</a></br><span class="subhead">JSON Web Tokens</span></li>
     <li><a href="https://github.com/psecio/parse">psecio/parse</a></br><span class="subhead">PHP static security scanner</span></li>
     <li><a href="https://github.com/Roave/SecurityAdvisories">Roave/SecurityAdvisories</a></br><span class="subhead">prevent installation of Composer libs with known issues</span></li>
-    <li><a href="https://github.com/indigophp/hash-compat">indigophp/hash-compat</a></br><span class="subhead">backport of hash_compare to older PHP versions</span></li>
+    <li><a href="https://github.com/indigophp/hash-compat">indigophp/hash-compat</a></br><span class="subhead">backport of hash_equals/hash_pbkdf2 to older PHP versions</span></li>
 </ul>
 
 <p>
