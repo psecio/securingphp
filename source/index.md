@@ -31,7 +31,7 @@ title: Home
 <b>Access Control/Authentication</b>
 <ul>
     <li><a href="https://github.com/BeatSwitch/lock">beatswitch/lock</a></li>
-    <li><a href="https://github.com/cartalyst/sentry">cartalyst/sentry</a> (branched into a commerical product, but still available)</li>
+    <li><a href="https://github.com/cartalyst/sentry">cartalyst/sentry</a></br><span class="subhead">branched into a commerical product, but still available</span></li>
     <li><a href="https://github.com/psecio/gatekeeper">psecio/gatekeeper</a></li>
 </ul>
 
@@ -55,8 +55,10 @@ title: Home
 
 <b>Miscellaneous</b>
 <ul>
-    <li><a href="https://github.com/psecio/jwt">psecio/jwt</a> (Java Web Tokens)</li>
-    <li><a href="https://github.com/psecio/parse">psecio/parse</a> (PHP static security scanner)</li>
+    <li><a href="https://github.com/psecio/jwt">psecio/jwt</a></br><span class="subhead">Java Web Tokens</span></li>
+    <li><a href="https://github.com/psecio/parse">psecio/parse</a></br><span class="subhead">PHP static security scanner</span></li>
+    <li><a href="https://github.com/Roave/SecurityAdvisories">Roave/SecurityAdvisories</a></br><span class="subhead">prevent installation of Composer libs with known issues</span></li>
+    <li><a href="https://github.com/indigophp/hash-compat">indigophp/hash-compat</a></br><span class="subhead">backport of hash_compare to older PHP versions</span></li>
 </ul>
 
 <p>
